@@ -1,6 +1,5 @@
-# google-reversed
-
-> Reverse Google Results
+# vowel-eater
+> Eat Some Vowels
 
 ## Build Setup
 
